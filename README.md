@@ -17,6 +17,7 @@ This Python program allows users to calculate various baseball statistics based 
 
 4. The program will display the calculated statistic based on your input.
 
+```bash
 **Example Usage**
 
 Baseball Statistics Calculator
