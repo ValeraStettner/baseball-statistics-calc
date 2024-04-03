@@ -40,3 +40,5 @@ Enter the number of times hit by pitch: 2
 Batting Average: 0.300
 Slugging Percentage: 0.650
 OPS: 1.258
+asjdasdas
+
